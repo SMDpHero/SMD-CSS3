@@ -1,0 +1,20 @@
+.VideoHeadline {
+  background-color: turquoise;
+  border-radius: 3px;
+  width: fit-content;
+  padding: 10px;
+  color: white;
+}
+.box-1 {
+  width: 300px;
+  height: 150px;
+  border: 2px solid tomato;
+  overflow-y: scroll;
+}
+.box-2 {
+  width: 300px;
+  height: 50px;
+  margin-top: 10px;
+  border: 2px solid green;
+  visibility: visible;
+}
