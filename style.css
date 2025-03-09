@@ -18,3 +18,23 @@
   border: 2px solid green;
   visibility: visible;
 }
+.links{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  background-color: aqua;
+  padding: 10px;
+  border-radius: 8px ;
+  color: purple;
+}
+.buttons{
+  background-color: purple;
+  border-radius: 20px;
+  width: fit-content;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  text-transform: uppercase ;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
